@@ -1,27 +1,26 @@
-# LearnEasy
+# IdealPlace.com
 
-Hello World! We would like to introduce you to a new, fun, and easy way of learning. Educate your child in a fun way by playing games, interacting with visuals, and chatting with others. We have created many games, and visuals for your child to excel in their learning.
+Hello World! We would like to introduce you to our product IdealPlace.com which a web app that helps to achieve your goals, be successful in life and live that life that you always dream of.
 
 ## 💡 Inspiration
 
-- Make education fun for children online
-- Learn valuable skills with gaming
-- Broaden the knownledge skills of the users
-- Broaden the amount of users, have a different language option
+- Empowering youth by providing Right guidance.
+- Let youth not to waste their time by avoding things which has no mean.
+- Broaden their thinking by suggesting them various learning resources which proved meaningful
+- Help youth to build a better future.
 
 ## 💻 How it Works?
 
-- Head on over to the website and view the options
-- Login using authenication
-- Choose from a variety of topics
-- Play games, study from interactive visuals, or chat with other kids
-- If it is more useful for you, you can change the language input to match the one you want
+- We collaborate with successful peoples and your ideals to collect data about their journey.
+- We provide all details to you so you can implement good things in your life.
+- Not just that, we also suggest you various resources of learning and building a good habit that leads to successful life.
+- We help you to arrange your life and clearly visualize your future.
+- We also let your distraction away from you so, you can do anything with focus.
 
 ## ⚙️ How we built it
 
 - Frontend: React JS, Tailwind
-- Backend: Firebase
-- Multiple languages: i18n
+- Backend: Rest API, Mongodb, Nodejs
 - GitHub: Collaboration, Hosting and Deployment
 - Tools: Git
 
@@ -32,18 +31,17 @@ Hello World! We would like to introduce you to a new, fun, and easy way of learn
 - We are using GitHub for **Collaboration**. GitHub makes it easy to share code with others and helps a lot in collaboration. GitHub makes it easy to set up a project and get started.
 - We also used GitHub for planning and keeping track of our project and its progress with the help of the **GitHub project** management tool.
 
-## ⛅ Best Use of Google Cloud
+## ⛅ Best Use of Data
 
-Our application uses Firebase for the database to store chats and to authenticate users. Cloud Firestore is a flexible, scalable real-time, high-performance database for mobile, web, and server development from Firebase and Google Cloud. Firebase is a free service and easy to use and has sped up our development process significantly.
+Our application uses Variety of Data from different resources to make it useful for you. we gather and analyze data so, you can use it for your benefits.
 
 ## 🌐 Best Domain Name from Domain.com (If we can do)
-
-- Register any .tech domain name from Domain.com.
+- Register any IdeaPlace.com domain name from Domain.com.
 
 ## 🧠 Challenges we ran into
 
 - The biggest challenge was the differece in time zones. But we collaborated and made the project complete in given time frame.
-- Another challange was to implement the multi-language option. We had to use the **i18n** to pass the language option to the components.
+- Another challange was to Collect quality data on Internet about successful Peoples.
 
 ## 🏅 Accomplishments that we're proud of
 
@@ -52,12 +50,14 @@ Our application uses Firebase for the database to store chats and to authenticat
 
 ## 📖 What we learned
 
-- Using i18n.
+- Making Presentation.
 - Deploying web app on GitHub Pages.
 - Efficient use of GitHub actions.
+- Collecting data and making API.
 
 ## 🚀 What's next for LearnEasy
 
 - Building a mobile app
-- Adding more fun educational games, and visuals
-- Adding more languages
+- Adding more features include todo list with filters of daily/weekly/monthly for user to track his progress.
+- Adding features that make user stay away from distractions.
+- Adding more domains and gathering more relevant data.
