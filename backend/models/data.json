@@ -7,8 +7,7 @@
         ],
         "habits":[
             "Wakes early and gets adequate sleep",
-            "He eats to live and not the other way round",
-            "Not always available for phone calls"
+            "He eats to live and not the other way round"
         ],
         "achievements":[
             "He completed a double major",
@@ -20,6 +19,50 @@
             "Bachelor of Science Degree in Physics",
             "Bachelor of Arts in Economics.",
             " BSC(Physics)"
+        ],
+        "tips":[
+            "Read books",
+            "Talk to people"
+        ]
+    },
+    "jeff bezos":{
+        "books":[
+            "The Innovators Dilemma",
+            "Rework",
+            "Good To Great"
+        ],
+        "habits":[
+            "Think for the Long Term"
+        ],
+        "achievements":[
+            "founder of amazon",
+            "founder of blue origin"
+        ],
+        "education":[
+            "Princeton University (BSE)"
+        ],
+        "tips":[
+            "Read books",
+            "Talk to people"
+        ]
+    },
+    "Bill gates":{
+        "books":[
+            "Energy and Civilization",
+            "The Feynman Lectures on Physics (3 books)",
+            "Good To Great"
+        ],
+        "habits":[
+            "He learns from his mistakes",
+            "Think for the Long Term",
+            "He reads everything"
+        ],
+        "achievements":[
+            "founder of microsoft",
+            "founder of microsoft foundation"
+        ],
+        "education":[
+            "Harvard University"
         ],
         "tips":[
             "Read books",
