@@ -1,0 +1,30 @@
+{
+    "elon musk":{
+        "books":[
+            "Benjamin Franklin: An American Life",
+            "Howard Hughes: His Life and Madness ",
+            "The Hitchhikers Guide to the Galaxy"
+        ],
+        "habits":[
+            "Wakes early and gets adequate sleep",
+            "He eats to live and not the other way round",
+            "Not always available for phone calls"
+        ],
+        "achievements":[
+            "He completed a double major",
+            "He taught himself to programme in three days",
+            "He founded SpaceX",
+            "He cofounded PayPal"
+        ],
+        "education":[
+            "Bachelor of Science Degree in Physics",
+            "Bachelor of Arts in Economics.",
+            " BSC(Physics)"
+        ],
+        "tips":[
+            "Read books",
+            "Talk to people"
+        ]
+    }
+    
+}
