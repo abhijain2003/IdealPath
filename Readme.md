@@ -61,3 +61,8 @@ Our application uses Variety of Data from different resources to make it useful 
 - Adding more features include todo list with filters of daily/weekly/monthly for user to track his progress.
 - Adding features that make user stay away from distractions.
 - Adding more domains and gathering more relevant data.
+
+## Meta Version
+- Presentation canva https://www.canva.com/design/DAFPMifKu7Y/fq1hg8PmfRkrmV5XADgxKQ/view?utm_content=DAFPMifKu7Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- MVP website https://idealplace.my.canva.site/
